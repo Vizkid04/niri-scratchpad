@@ -265,3 +265,9 @@ The static scratchpad and animation concepts are heavily inspired by:
 https://github.com/gvolpe/niri-scratchpad/tree/main
 
 This project extends the idea with dynamic indexed scratchpads and persistent metadata.
+
+# References
+
+Link to my cmus album art display setup repo: https://github.com/Vizkid04/cmus_cover_art
+
+I use tmux to achieve the panes. Visualizer is cava. The file manager that you are seeing is yazi.
