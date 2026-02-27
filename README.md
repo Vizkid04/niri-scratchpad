@@ -17,7 +17,8 @@ stacks together:
 ------------------------------------------------------------------------
 
 # Showcase
-![Demo](demo.gif)
+
+https://github.com/user-attachments/assets/5262ed8e-8d79-4fe8-b5f2-3893905cfaf2
 
 # ✨ Features
 
