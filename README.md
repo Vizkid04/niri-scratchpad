@@ -66,7 +66,7 @@ State survives compositor reloads and reboots.
 Clone and build:
 
 ``` bash
-git clone https://github.com/<your-user>/niri-scratchpad
+git clone https://github.com/Vizkid04/niri-scratchpad
 cd niri-scratchpad
 cargo build --release
 ```
